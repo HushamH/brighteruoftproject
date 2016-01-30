@@ -1,0 +1,119 @@
+body {
+    font-family:'Open Sans', sans-serif !important;
+
+}
+
+#lightbulbinfographic {
+    width:50%;
+	margin:0px auto;
+    display:block;
+    position:absolute;
+}
+
+.containera {
+	 padding-left:50px;
+     width:1250px;
+     margin-left:auto;
+     margin-right:auto;
+ }
+
+#actualplatform {
+    position:relative;
+    width:1250px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+.puzzlepiece {
+}
+
+#orangetop {
+    position:absolute;
+    left:100px;
+    z-index:1;
+}
+
+#lightredpiece {
+    position:absolute;
+    top: 111px;
+    left:269px;
+}
+
+#redsidepiece {
+    position:absolute;
+    left:377px;
+    top:175px;
+}
+
+#lightyellow {
+    position:absolute;
+    top:175px;
+    left:100px;
+}
+
+#lightbluemid {
+    position:absolute;
+    left:100px;
+    top:353px;
+}
+
+#purplemid {
+    position:absolute;
+    top:355px;
+    left:270px;
+}
+
+#lightgreenside {
+    position: absolute;
+    top:62px;
+    left:-2px;
+}
+
+
+#darkbluebottom {
+    position:absolute;
+    top:533px;
+    left:105px;
+}
+
+#bluebottom {
+    position:absolute;
+    top:744px;
+    left:155px;
+}
+
+#goldbottom {
+    position:absolute;
+    top:669px;
+    left:148px;
+
+}
+
+#greenbottom {
+    position:absolute;
+    top:792px;
+    left:160px;
+}
+
+#redbottom {
+    position:absolute;
+    top:837px;
+    left:188px;
+}
+
+#platformpoints {
+    position:absolute;
+    top:1100px;
+}
+
+
+.text-muted {
+    color:#feba28 !important;
+}
+
+#instr {
+    width:700px;
+    margin: 80px auto 80px;
+}

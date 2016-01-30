@@ -1,0 +1,1 @@
+function clickHandler(e){var t=e.getAttribute("class");"active"!==t&&e.setAttribute("class","active")}for(var menu=document.querySelector(".menu"),anchors=menu.getElementsByTagName("a"),i=0;i<anchors.length;i+=1)anchors[i].addEventListener("click",function(){clickHandler(anchors[i])},!1);
